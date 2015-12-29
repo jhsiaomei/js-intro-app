@@ -16,6 +16,8 @@
 
 // Hint: Use a for loop!
 
+
+
 // // Exercise #2:
 
 // var numbers = [5, 23, 98, 234, 1, 0, 3, 177];
