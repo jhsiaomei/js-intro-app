@@ -258,8 +258,8 @@
 //   model: "Buick",
 //   year: 2004,
 //   miles: 20000,
-//   printMessage: function () {
-//     return this.model + " has done " + this.miles + " miles";
+  // printMessage: function () {
+  //   return this.model + " has done " + this.miles + " miles";
 //   }
 
 // }
