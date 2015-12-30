@@ -50,7 +50,7 @@
 // // Exercise #4:
 
 // Implement FizzBuzz in JavaScript. Write a program that prints the integers from 1 to 100.
-// But for multiples of three print "Fizz" instead of the number, and for the multiples of five print "Buzz". 
+// But for multiples of three print "Fizz" instead of the number, and for the multiples of five print "Buzz".
 // For numbers which are multiples of both three and five print "FizzBuzz".
 
 // Hint: See other hints!
@@ -86,7 +86,7 @@
 //     console.log('Your guess is too low; please guess again.');
 //   } else {
 //     console.log('Please choose a number.');
-//   } 
+//   }
 // }
 // console.log('The correct answer was: ' + randomNumber + '. Thanks for playing.');
 
@@ -141,10 +141,10 @@
 
 // // Exercise #9:
 
-// Add a function to the above book object that console.logs out all the above information 
+// Add a function to the above book object that console.logs out all the above information
 
 // book.printMessage();
 
-// // Extra exercises can be found here: http://www.ling.gu.se/~lager/teaching/dialogue_systems%20II/labs/javascript.html 
+// // Extra exercises can be found here: http://www.ling.gu.se/~lager/teaching/dialogue_systems%20II/labs/javascript.html
 
 

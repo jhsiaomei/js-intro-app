@@ -17,4 +17,6 @@ class PagesController < ApplicationController
   def calc
   end
 
+  def jackhammer
+  end
 end
